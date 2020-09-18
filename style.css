@@ -1,0 +1,36 @@
+.text {
+    background-color: rgba(0,0,0,0.5);
+    width: 250px;
+        }
+        .name{
+            color: white;
+        }
+        
+        .round2{
+            border-radius: 50px; /* Радиус скругления */
+        box-shadow: 0 0 7px #666; /* Параметры тени */
+        }
+        .round3{
+            border-radius: 50px; /* Радиус скругления */
+        box-shadow: 0 0 7px #666; /* Параметры тени */
+        }
+        .round {
+        border-radius: 400px; /* Радиус скругления */
+        box-shadow: 0 0 7px #666; /* Параметры тени */
+       }
+    body {
+        background: url(background.jpg) no-repeat;
+        -moz-background-size: 100%;
+        -webkit-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+    }
+    .center{
+        margin-right: 15% ;
+        margin-left: 15%;
+    }
+    .vk{
+        height: 120px;
+        width: 150px;
+        float: left;
+    }
