@@ -41,3 +41,6 @@ box-shadow: 0 0 7px #666; /* Параметры тени */
     border-radius: 50px; /* Радиус скругления */
 box-shadow: 0 0 7px #666; /* Параметры тени */
 }
+.g{
+    display: none;
+}
